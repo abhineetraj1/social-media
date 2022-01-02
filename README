@@ -1,0 +1,8 @@
+First download python3.x
+
+Install flask framework
+- pip install flask
+
+Delete all files present in folders - ACC , static, and ISSUES
+
+And Execute app.py .
